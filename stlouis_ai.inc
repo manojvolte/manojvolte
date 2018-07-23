@@ -7,12 +7,8 @@
  * Synced with CG: no
  * Synced with 2114: no
  */
+ //comment By Manoj
 
-// commented by manoj kumar
-
-
-
-//hello submit
 define('CONSERVE_ACTIONS', 1);
 define('CONSERVE_MONEY', 2);
 
