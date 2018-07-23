@@ -8,11 +8,11 @@
  * Synced with 2114: no
  */
 
-// commented by manoj
+// commented by manoj kumar
 
 
 
-//hello
+//hello submit
 define('CONSERVE_ACTIONS', 1);
 define('CONSERVE_MONEY', 2);
 
